@@ -1,1 +1,1 @@
-# XGBoost-Explainable-AI
+# XGBoost Model Explanation with SHAP  This repository contains a Python script that demonstrates how to train an XGBoost model on the Boston Housing dataset and explain the model's predictions using SHAP (SHapley Additive exPlanations).  ## Requirements  To run this script, you need the following Python packages installed:  - `shap` - `xgboost` - `scikit-learn`  You can install these packages using pip:  ```bash pip install shap xgboost scikit-learn
